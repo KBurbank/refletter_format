@@ -1,0 +1,19 @@
+---
+format:
+  refletter-pdf: default
+date: last-modified
+logo-path: "logo.png"
+signature-path: "signature.pdf"
+closing: "Sincerely,"
+author_info:
+  name: "Your name"
+  prof_title: "Your title (e.g., PhD, MS, etc.)"
+  position: "Your position (e.g., Assistant Professor, etc.)"
+  department: "Your department"
+  address: "Your address"
+  cityzip: "Your city, zip code, country, etc"
+  email: "Your email address"
+  phone: "Your phone number"
+---
+
+This is where the body of the letter goes.

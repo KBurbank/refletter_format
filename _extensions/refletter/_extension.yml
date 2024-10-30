@@ -1,0 +1,11 @@
+title: Refletter
+author: Kendra Burbank
+version: 1.0.0
+quarto-required: ">=1.5.0"
+
+contributes:
+  formats: 
+    pdf:
+      closing: "Sincerely,"
+      template: letter_template.tex
+
