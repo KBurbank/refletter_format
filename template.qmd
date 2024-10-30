@@ -2,8 +2,8 @@
 format:
   refletter-pdf: default
 date: last-modified
-logo-path: "logo.png"
-signature-path: "signature.pdf"
+logo: "logo.png"
+signature: "signature.pdf"
 closing: "Sincerely,"
 author_info:
   name: "Your name"
